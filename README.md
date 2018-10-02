@@ -10,6 +10,7 @@ This app requires running mySQL and installing npm dependencies as well as node 
 
 Next, the user will be asked if they would like to purchase another item. If they answer no, they will be disconnected from the store. If they answer yes, they will run through the above cycle again.
 
+![Image 2](./images/image2.png)
 
 
 This project is still a work in progress.
